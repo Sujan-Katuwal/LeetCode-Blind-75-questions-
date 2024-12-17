@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Sujan-Katuwal/LeetCode-Blind-75-questions-/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sujan-Katuwal/LeetCode-Blind-75-questions-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Sujan-Katuwal/LeetCode-Blind-75-questions-/tree/master/0152-maximum-product-subarray) |
+| [0338-counting-bits](https://github.com/Sujan-Katuwal/LeetCode-Blind-75-questions-/tree/master/0338-counting-bits) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,5 +43,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Sujan-Katuwal/LeetCode-Blind-75-questions-/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/Sujan-Katuwal/LeetCode-Blind-75-questions-/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Sujan-Katuwal/LeetCode-Blind-75-questions-/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
