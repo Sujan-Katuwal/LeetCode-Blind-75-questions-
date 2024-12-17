@@ -33,4 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sujan-Katuwal/LeetCode-Blind-75-questions-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sujan-Katuwal/LeetCode-Blind-75-questions-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+## Math
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/Sujan-Katuwal/LeetCode-Blind-75-questions-/tree/master/0371-sum-of-two-integers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/Sujan-Katuwal/LeetCode-Blind-75-questions-/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
